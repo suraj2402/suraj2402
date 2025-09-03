@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suraj</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Backend developer from India</h3>
 <p>&nbsp;<img align="right" src="https://wallpapercave.com/wp/wp7447715.jpg" alt="suraj2402" width=400px/></p>
 - 🔭 I’m currently working on **problem solving using c++**
 
